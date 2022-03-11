@@ -4,10 +4,11 @@
 ***
 ## I'm currently learning and using...
 - [x] Python
-- [x] HTML, CSS, Js
+- [x] HTML, CSS, JS
 - [x] Scratch
 - [x] VBScript
 - [ ] owobbScript
+- [ ] CowLangO
 ***
 ## You Can Find Me on…
 - [Discord](https://discord.gg/u4DvHYWZph)
