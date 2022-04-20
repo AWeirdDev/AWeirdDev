@@ -24,7 +24,7 @@ Uncaught ReferenceError: fun is not defined
 Our team members have a lot of experience, we'll be there, and help you to solve this!
 
 ## Blog is `console.log`
-> Blog coming soon... ;)
+> [Jump!](https://github.com/AWeirdScratcher/AWeirdScratcher/blob/main/blog/README.md)
 
 ## Get to know more...
 You can consider joining my server, or contact me by using [email](mailto:aweirdscratcher@gmail.com)
