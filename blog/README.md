@@ -1,18 +1,18 @@
+<img src="https://user-images.githubusercontent.com/90096971/164126433-ac4af250-0876-49a9-8a42-b36ea9881cdb.jpeg"/>
+
+<hr>
+
 # Blog is `console.log`!
-You hopped into this dimension...
+
+
 ```py
 [Welcome]: "Hello, stranger."
-[Welcome]: "I'm the welcomer bot!"
-[Welcome]: "This is the AWeirdScratcher's blog..."
-
-# Suddenly...
-
-@everyone
-
-[Discord]: "ayoooooooooo gamerz join this server"
-[Welcome]: "Discord, can you let me finish my talking?"
-[Discord]: "w"
-[Welcome]: "I'm talking to this stranger, they came here one minute ago."
-[Discord]: "did i ask? lmaooooooooooooo"
+[Welcome]: "Go pick the topics you like, and click to view!"
 ```
-not done
+
+<hr>
+
+## Topics
+Choose what you like ;)
+
+<a>Hello, World!</a>
