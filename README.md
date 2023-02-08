@@ -1,11 +1,27 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/90096971/205478716-f86669d1-ef24-4d50-bb16-6dac1fe2fccf.png" width="500" />
 
-# Get Ready For linelib v2.
-yoooo leaked
+  # Hey, I'm awd.
+  You sussy Gussy.
 
-follow for more... I guess.
-
-btw im literally adding a tasklist lmao
-  
 </div>
+
+## Why are you here?
+There are several possibilities, but the nearest conditions are:
+
+1. You wanted to see how this guy is doing
+2. You wanted to follow (but I really appreciate it)
+3. You wanted to see who is commiting... stuff.
+4. You're bored.
+5. You found out that the person you're following started following me.
+
+None of the above? Click below:
+
+<details>
+  <summary><a href="#">Android Users Only</a></summary>
+  <p>
+
+### TURTLE TIME
+🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
+
+  </p>
+</details>
