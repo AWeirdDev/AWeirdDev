@@ -1,27 +1,24 @@
-<div align="center">
+# im awd
+goofy ahh developer
 
-  # Hey, I'm awd.
-  You sussy Gussy.
+## pro<ins>jects</ins>
+workin on [maint](https://github.com/AWeirdScratcher/maint-sdk), a versatile chat app, aimed for efficiency & integration.
 
-</div>
+## pro<ins>mpts</ins>
+- stupid person
+- yet enjoys learnin
+- likes 2 create stuff
+- built for developers & users
 
-## Why are you here?
-There are several possibilities, but the nearest conditions are:
+## pro<ins>s and cons</ins>
+**Pros:**
+- nice world
 
-1. You wanted to see how this guy is doing
-2. You wanted to follow (but I really appreciate it)
-3. You wanted to see who is commiting... stuff.
-4. You're bored.
-5. You found out that the person you're following started following me.
+**Cons:**
+- nice hostage
 
-None of the above? Click below:
+## pro<ins>fessional developer</ins>
+thats not true.
 
-<details>
-  <summary><a href="#">Android Users Only</a></summary>
-  <p>
-
-### TURTLE TIME
-🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
-
-  </p>
-</details>
+## pro<ins>...?</ins>
+its time for you to write your own story. whats next? [you decide!](https://github.com/AWeirdScratcher/AWeirdScratcher/issues/new?title=i+wanna+see...)
