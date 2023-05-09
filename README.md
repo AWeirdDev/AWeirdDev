@@ -2,7 +2,7 @@
 goofy ahh developer
 
 ## pro<ins>jects</ins>
-workin on [maint](https://github.com/AWeirdScratcher/maint-sdk), a versatile chat app, aimed for efficiency & integration.
+workin on [qkm (quick-make)](https://github.com/AWeirdScratcher/qkm), a blazing fast web development tool for everyone.
 
 ## pro<ins>mpts</ins>
 - stupid person
