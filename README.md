@@ -1,6 +1,10 @@
 # im awd
 
-guy thought that to-
+i need friends
+
+***
+
+a little while ago, a guy thought that to-
 
 ```python
 yield
