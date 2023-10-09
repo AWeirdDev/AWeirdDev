@@ -1,15 +1,9 @@
 # im awd
 
-i need friends
+donation required
 
 ***
 
-a little while ago, a guy thought that to-
+zig more like c++ in 2040 :fire::fire:
 
-```python
-yield
-```
-
-...is to help the society.
-
-instructions unclear, they yielded every single user data possible on discord.io.
+you cant change my mind
