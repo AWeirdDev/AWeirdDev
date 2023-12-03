@@ -1,9 +1,7 @@
 # im awd
 
-donation required
+why does machine learning HAVE to be so hard?? i mean why????
 
 ***
 
-zig more like c++ in 2040 :fire::fire:
-
-you cant change my mind
+> Violence is never the answer, it's the question. The answer is yes.
