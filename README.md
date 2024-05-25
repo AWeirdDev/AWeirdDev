@@ -2,7 +2,7 @@
 
 Packages packages packages packages.
 
-## 🧪 EXPR1: `protonbites`
+## 🧪 EXPR1: protonbites
 
 The simple way to store JSON data. Minimal and blazingly fast at all times.<br />
 **[Go →](https://github.com/AWeirdDev/protonbites)**
