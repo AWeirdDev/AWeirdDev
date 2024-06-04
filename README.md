@@ -1,6 +1,16 @@
 # im awd
 
-Ideas are just too many.
+Ideas are just too many. Below are some ideas that I have. There are currently 2 on-going delays<sup>1</sup>. A ballon emoji indicates that this is a new project/idea.
+
+Sorted from latest to oldest.
+
+- [ ] 🎈 getitunes – iTunes search API (+ downloader for Podcasts)
+- [ ] Project Fernando Miguel (Discord AI Bot)
+- [ ] IPycolonel
+- [ ] AWeirdDev/flights fixes <kbd>🟠 DELAY</kbd>
+- [x] ~~Protonbites~~
+
+<sup>1</sup> **delays**: Common causes of a delay are a) I find the project unhelpful (or even useless) to the developers/users; b) I don't have motivation (e.g., lack of activities of a repo); c) I'm busy at work thus I don't have time to develop/maintain the projects.
 
 ***
 
