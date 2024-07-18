@@ -4,7 +4,8 @@ Ideas are just too many. Below are some ideas that I have. There are currently 2
 
 Sorted from latest to oldest.
 
-- [ ] 🎈 getitunes – iTunes search API (+ downloader for Podcasts)
+- [ ] researches
+- [ ] ~~🎈 getitunes – iTunes search API (+ downloader for Podcasts)~~ no.
 - [x] ~~IPycolonel~~
 - [x] ~~AWeirdDev/flights fixes~~
 - [x] ~~Protonbites~~
