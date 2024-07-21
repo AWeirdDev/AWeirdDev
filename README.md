@@ -4,7 +4,8 @@ Ideas are just too many. Below are some ideas that I have. There are currently 2
 
 Sorted from latest to oldest.
 
-- [ ] researches
+- [x] ~~vdb37~~
+- [x] ~~researches~~
 - [ ] ~~🎈 getitunes – iTunes search API (+ downloader for Podcasts)~~ no.
 - [x] ~~IPycolonel~~
 - [x] ~~AWeirdDev/flights fixes~~
@@ -13,6 +14,14 @@ Sorted from latest to oldest.
 <sup>1</sup> **delays**: Common causes of a delay are a) I find the project unhelpful (or even useless) to the developers/users; b) I don't have motivation (e.g., lack of activities of a repo); c) I'm busy at work thus I don't have time to develop/maintain the projects.
 
 ***
+
+## vdb37
+Simple vector database.<br />
+**[Go →](https://github.com/AWeirdDev/vdb37)**
+
+## researches
+Google search wrapper.<br />
+**[Go →](https://github.com/AWeirdDev/researches)**
 
 ## 🧪 EXPR1: protonbites
 
