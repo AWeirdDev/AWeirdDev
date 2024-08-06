@@ -1,5 +1,7 @@
 # im awd
 
+Discord: @awd_tw
+
 Ideas are just too many. Below are some ideas that I have. There are currently 2 on-going delays<sup>1</sup>. A ballon emoji indicates that this is a new project/idea.
 
 Sorted from latest to oldest.
