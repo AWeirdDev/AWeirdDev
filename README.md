@@ -6,13 +6,29 @@ hi there. i use html, (react)js, css, python and rust.
 - im learning rust
 
 discord: @awd_tw<br />
-irl: new taipei city, taiwan
+location: new taipei city, taiwan
 
-## some words
-📣 **hey!** my new project [ddginternal](https://github.com/AWeirdDev/ddginternal) is out now! use duckduckgo search the *funky* way.
+## discovery
+Prove that 6 * 9 + 6 + 9 can be applied to other numbers:
 
-- if you're looking for something *googley*, check out `researches` and `flights`
+$`ab + a + b = 10a + b`$
 
-- if you're looking for ai, there are a lot of repos on this topic!
+$`ab + a = 10a`$
 
-- im thinking of making agent 69 because... agent *zero* sounds a bit "mid"
+$`ab = 9a`$
+
+Since $`a`$ is the second digit, $`a > 0`$, therefore:
+
+$`b = 9`$
+
+It is confirmed that any number that:
+1. Is a two-digit
+2. $`a`$ is any number
+
+You can do the same thing just like 6 * 9 + 6 + 9.
+
+Example:
+
+$$
+3*9+3+9=39
+$$
