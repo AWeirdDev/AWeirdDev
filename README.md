@@ -11,5 +11,3 @@ location: new taipei city, taiwan
 
 <br />
 
-truly yours.<br />
-https://github.com/liferhq
