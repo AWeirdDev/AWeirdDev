@@ -1,14 +1,8 @@
-# im awd
-hi there. i use html, (react)js, css, python and rust.
+# im jc
+nobody really cares about my work, really. im kind of used to it, that's just society isn't it.
 
-i mainly focus on **user experience** and **making bad projects**.
+join [this server](https://discord.gg/6dZHJqVaH9) if you'd like to talk any sh\*t :)
 
 discord: @awd_tw<br />
-huggingface: [@AWeirdDev](https://huggingface.co/AWeirdDev)<br />
-location: new taipei city, taiwan
-
-## skills
-i am capable of being a dumbass.
- 
-![image](https://github.com/user-attachments/assets/76b79a8b-d32b-4ca1-8005-f9883545911b)
-
+server: [discord.gg/6dZHJqVaH9](https://discord.gg/6dZHJqVaH9)<br />
+huggingface: @AWeirdDev<br />
