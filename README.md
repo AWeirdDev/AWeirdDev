@@ -8,8 +8,6 @@ i don't do any trendy stuff here, i just do what i normally do
 
 **languages i use**: Python, Rust, Typescript & Javascript, HTML, CSS, etc.<br />
 
-fuck big tech companies and some motherfuckers who have no idea that their fucking brain is getting torn by ai since they outsource it for everything and still hold it ever so tightly, calling it "glorious" or "automation" or the "future." the future is getting fucked up because they don't know how to fucking use their brain for a split second to think. for the sake of mankind, please, just think. it's what makes you different, it's what makes you a real entrepreneur or whatever the fuck you want to call yourself.
-
 <br />
 
 **contacts**:<br />
