@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>Example Tech Podcast</title>
+    <link>https://example.com</link>
+    <language>en-us</language>
+    <copyright>© 2026 Example Media</copyright>
+    <description>
+      A podcast about software engineering, systems design, and modern programming languages.
+    </description>
+
+    <!-- Apple Podcasts specific metadata -->
+    <itunes:author>Example Media</itunes:author>
+    <itunes:summary>
+      Deep technical conversations about compilers, runtimes, and infrastructure.
+    </itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+
+    <itunes:owner>
+      <itunes:name>Example Media</itunes:name>
+      <itunes:email>contact@example.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://example.com/podcast-cover.jpg"/>
+
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+
+    <!-- Episode -->
+    <item>
+      <title>Episode 1: Building a Language Runtime</title>
+      <description>
+        We explore how modern runtimes manage memory, concurrency, and safety.
+      </description>
+
+      <itunes:author>Jane Doe</itunes:author>
+      <itunes:summary>
+        A deep dive into runtime architecture and memory management strategies.
+      </itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+
+      <pubDate>Sat, 28 Feb 2026 10:00:00 GMT</pubDate>
+
+      <enclosure url="https://example.com/episodes/episode1.mp3"
+                 length="12345678"
+                 type="audio/mpeg"/>
+
+      <guid>https://example.com/episodes/episode1</guid>
+
+      <itunes:duration>42:35</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
