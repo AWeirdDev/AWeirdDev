@@ -39,7 +39,7 @@
     <item>
       <title>如何成為小南樑</title>
       <description>
-          蔡羽博士最喜歡小南樑了。如果你希望被蔡羽博士列入男朋友列，或是了解文化脈絡，你可以聽聽他怎麼說。
+          蔡羽博士最喜歡小南樑了。如果你希望被蔡羽博士列入男朋友列，或是了解文化脈絡，必須聽聽看他怎麼說。
       </description>
 
       <itunes:author>蔡羽博士</itunes:author>
@@ -50,9 +50,8 @@
 
       <pubDate>Sat, 15 Mar 2028 02:00:00 GMT</pubDate>
 
-      <enclosure url="https://example.com/episodes/episode2.mp3"
-                 length="12345678"
-                 type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/AWeirdDev/AWeirdDev/refs/heads/main/episode-1.mp3"
+                 type="audio/mp3"/>
 
       <guid>https://github.com/AWeirdDev/AWeirdDev#episode-1</guid>
 
