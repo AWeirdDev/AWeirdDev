@@ -59,7 +59,20 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
-    </item>
+     </item>
+
+     <item>
+          <title>如何正確鹿管？</title>
+          <description>蔡羽博士正在研究。</description>
+          <itunes:author>蔡羽博士</itunes:author>
+          <itunes:summary>我是蔡羽<itunes:summary>
+          <itunes:explicit>true</itunes:explicit>
+          <enclosure url="https://example.com/episode.mp3" length="12345678" type="audio/mpeg"/>
+          <guid>https://example.com/episode-3</guid>
+          <pubDate>Sat, 08 Mar 2026 08:00:00 +0000</pubDate>
+          <itunes:title>如何正確鹿管？</itunes:title>
+          <itunes:duration>42314</itunes:duration>
+     </item>
 
   </channel>
 </rss>
