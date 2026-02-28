@@ -72,6 +72,9 @@
           <pubDate>Sat, 08 Mar 2026 08:00:00 +0000</pubDate>
           <itunes:title>如何正確鹿管？</itunes:title>
           <itunes:duration>42314</itunes:duration>
+          <itunes:episode>2</itunes:episode>
+           <itunes:season>1</itunes:season>
+           <itunes:episodeType>full</itunes:episodeType>
      </item>
 
   </channel>
