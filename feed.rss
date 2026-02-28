@@ -1,57 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
-    <title>Example Tech Podcast</title>
-    <link>https://example.com</link>
-    <language>en-us</language>
-    <copyright>© 2026 Example Media</copyright>
+    <title>蔡羽博士專輯</title>
+    <link>https://www.threads.com/@ouo._114514</link>
+    <language>zh-tw</language>
+    <copyright>© 2026 蔡羽</copyright>
+
     <description>
-      A podcast about software engineering, systems design, and modern programming languages.
+● 關於本節目
+蔡羽博士將在節目中談論並剖析各種生活瑣事以及近年來的學科趨勢。從理性層面昇華至感性層面，蔡羽博士不僅能夠深度分析自然、社會人文領域的各種難題，於感情上也能提出深刻的見解。他將帶你改變，由外而內，從外在表現至內在。
+
+● 關於蔡羽
+脆（Threads）上百兆網紅建國中學化奧冠軍蔡羽博士（@ouo._114514）是一個學術型創作者、知識開創者，以及 2025 年諾貝爾化學獎得主。
+
+「好想被桶皮炎」
+「我被選上建中優良學生，我被提名了而且學習成績還夠」
+「開學新人設：高冷愛讀書」
+
+儘管蔡羽博士在社群上十分活躍，對於愛情的追求也從未止息，他仍舊穩住課業，取得好成績，甚至類排第一名，無疑是全台高中生的典範。
     </description>
 
-    <!-- Apple Podcasts specific metadata -->
-    <itunes:author>Example Media</itunes:author>
+    <itunes:author>蔡羽博士</itunes:author>
     <itunes:summary>
-      Deep technical conversations about compilers, runtimes, and infrastructure.
+蔡羽博士以理性與感性交織的方式，帶你剖析生活、學術與人文議題，從外在表現深入內在核心。
     </itunes:summary>
+
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/AWeirdDev/AWeirdDev/refs/heads/main/ouo.jpg"/>
 
-    <itunes:owner>
-      <itunes:name>Example Media</itunes:name>
-      <itunes:email>contact@example.com</itunes:email>
-    </itunes:owner>
-
-    <itunes:image href="https://example.com/podcast-cover.jpg"/>
-
-    <itunes:category text="Technology">
-      <itunes:category text="Software How-To"/>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
     </itunes:category>
 
-    <!-- Episode -->
     <item>
-      <title>Episode 1: Building a Language Runtime</title>
+      <title>如何成為小南樑</title>
       <description>
-        We explore how modern runtimes manage memory, concurrency, and safety.
+          蔡羽博士最喜歡小南樑了。如果你希望被蔡羽博士列入男朋友列，或是了解文化脈絡，你可以聽聽他怎麼說。
       </description>
 
-      <itunes:author>Jane Doe</itunes:author>
+      <itunes:author>蔡羽博士</itunes:author>
       <itunes:summary>
-        A deep dive into runtime architecture and memory management strategies.
+建立自我價值與影響力的系統性方法。
       </itunes:summary>
       <itunes:explicit>false</itunes:explicit>
 
-      <pubDate>Sat, 28 Feb 2026 10:00:00 GMT</pubDate>
+      <pubDate>Sat, 15 Mar 2028 02:00:00 GMT</pubDate>
 
-      <enclosure url="https://example.com/episodes/episode1.mp3"
+      <enclosure url="https://example.com/episodes/episode2.mp3"
                  length="12345678"
                  type="audio/mpeg"/>
 
-      <guid>https://example.com/episodes/episode1</guid>
+      <guid>https://github.com/AWeirdDev/AWeirdDev#episode-1</guid>
 
-      <itunes:duration>42:35</itunes:duration>
+      <itunes:duration>11:45:14</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
