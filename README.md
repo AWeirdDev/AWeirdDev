@@ -1,5 +1,5 @@
 # im aweirddev
-im a portable restroom somewhere in taipei near a baseball field
+programming for fun
 
 [aweird.me/](https://aweird.me)
 
